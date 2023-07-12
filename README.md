@@ -1,8 +1,9 @@
 # Practica vue3
  practica 2
+Practica desarrollada por :Aldo Ayala Ramos
 
- Practica desarrollada por :Aldo Ayala Ramos
- *Lo primero que hicimos fue crear el db.json con los datos del PDF
+
+*Lo primero que hicimos fue crear el db.json con los datos del PDF
  {
 "Productos": [
     {
