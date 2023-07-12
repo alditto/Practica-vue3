@@ -44,5 +44,7 @@ Practica desarrollada por :Aldo Ayala Ramos
  
  
 *Descargar el repositorio 
- *Abrir una terminal en la carpeta baseDatos_db y ejecutar el comando json-server db.json
- *Luego abrir un terminal en practica2 y ejecutar el comando npm run serve
+
+*Abrir una terminal en la carpeta baseDatos_db y ejecutar el comando json-server db.json
+
+*Luego abrir un terminal en practica2 y ejecutar el comando npm run serve
